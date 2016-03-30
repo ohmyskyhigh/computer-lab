@@ -1,0 +1,15 @@
+load nulaerofoil.dat
+    panel
+    oper
+    visc 1
+    M0.5
+    type 1
+    pacc
+nulpolar.dat
+    
+    iter
+ 1000
+    cl 1.2
+    
+    
+    quit
